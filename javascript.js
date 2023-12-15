@@ -109,5 +109,23 @@ console.log("---------")
 // let voteable  = (age<18) ? "Too young to vote" : "Old enough to vote"
 // console.log(voteable )
 
+//nullish operator ??
+
+// let name1 = "mustafa"
+// let name2; //undefined
+// let name3 = null
+// let name4 = 0
+// let name5 = ""
+// let name6 = NaN
+// let text = "Missing name "
+// //The ?? operator returns the first argument if it is not nullish (null or undefined). Otherwise it returns the second argument.
+// console.log("-------------")
+// console.log(name1 ?? text)
+// console.log(name2 ?? text)
+// console.log(name3 ?? text)
+// console.log(name4 ?? text)
+// console.log(name5 ?? text)
+// console.log(name6 ?? text)
+// console.log("-------------")
 
 
