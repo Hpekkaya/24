@@ -102,5 +102,12 @@ console.log("---------")
 // console.log("!(x<5) && y>12")
 // console.log(!(x<5 || y>12))
 
+// //ternary operator
+// let age = 30
+// // If the variable age is a value below 18, the value of the variable voteable will be "Too young", otherwise the value of voteable will be "Old enough".
+
+// let voteable  = (age<18) ? "Too young to vote" : "Old enough to vote"
+// console.log(voteable )
+
 
 
