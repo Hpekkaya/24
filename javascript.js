@@ -62,5 +62,45 @@ let q;
 console.log("q değeri",q)
 console.log(Boolean(q))
 
+// js comparison 
+
+let x = 8 ; //Assign 8 to x,  
+console.log("Assign 8 to x ")
+console.log("Display the value of the comparison (x == 10):", x == 10) 
+console.log("---------")
+
+let y = "34"
+console.log("y=\"34\"  -Assign 34 (string) to y")
+console.log("Display if the equal value and equal type of the comparison (y === 34):", y === 34) 
+
+let y1 = 34
+console.log("y1=34  -Assign 34 (number) to y1")
+console.log("Display if the equal value and equal type of the comparison (y1 === 34):", y1 === 34) 
+console.log("---------")
+
+let z = "88"
+console.log("Assign 88 to z ")
+console.log("Display not equal the value of the comparison (z != 88):", z != 88) 
+console.log("Display not equal the value of the comparison (z != 90):", z != 90) 
+console.log("---------")
+
+let z1 = "34"
+console.log("z1=34  -Assign 34 (string) to z1")
+console.log("Display if the not equal value and equal type of the comparison (z1 !== 34):", z1 !== 34) 
+console.log("---------")
+
+// let x = 8 ;
+// let y = 10 ;
+// console.log("x=8  -Assign 8 to x")
+// console.log("y=8  -Assign 10 to y")
+
+// console.log("The && operator returns true if both expressions are true, otherwise it returns false.")
+// console.log("!(x<5) && y>12")
+// console.log(!(x<5) && y>12)
+// console.log("---------")
+// console.log("The || returns true if one or both expressions are true, otherwise it returns false.")
+// console.log("!(x<5) && y>12")
+// console.log(!(x<5 || y>12))
+
 
 
